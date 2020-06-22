@@ -1,12 +1,8 @@
 
 <h1 align="center">
-    <img alt="Guia Perguntas" src=".github/icons.png" width="250px" />
+  Guia Perguntas
 </h1>
-
-
-<h4 align="center">
-  ❓ Guia Perguntas
-</h4>
+---
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/arthur-meireles/GuiaPerguntas">
@@ -27,8 +23,9 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/GuiaPerguntas.pmg" width="100%">
+  <img alt="Frontend" src=".github/GuiaPerguntas.png" width="100%">
 </p>
+---
 
 ## 📚 Tecnologias
 
@@ -40,15 +37,91 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Ejs](https://ejs.co/)
 - [Bootstrap](https://getbootstrap.com/)
 - [MySql](https://www.mysql.com/)
+---
 
 ## 💻 Projeto
 
 O Guia Perguntas é um projeto estilo fórum de perguntas e respostas, criado apartir de um curso de Nodejs na udemy.(https://www.udemy.com/course/formacao-nodejs)
+---
+
+## 👨‍💻 Subindo
+<p>Para subir o projeto na sua máquina, voce precisa:</p>
+<br>
+<p><img src="http://g.recordit.co/omQ42wRpjc.gif" alt="Recordit GIF" style="max-width:100%;"></p>
+<p>Te o node e npm instalados e atualizados.</p>
+<br>
+<br>
+
+<p>Clone o projeto onde preferir:</p>
+<br>
+<p><img src="http://g.recordit.co/X5Lla8Jxcs.gif" alt="Recordit GIF" style="max-width:100%;"></p>
+<br>
+<br>
+
+<p>Abra o projeto no seu editor:</p>
+<br>
+<p><img src="http://g.recordit.co/SMIFIpMhSr.gif" alt="Recordit GIF" style="max-width:100%;"></p>
+<br>
+<br>  
+
+<p>Caso precise instalar o mysql, baixe<a href="https://dev.mysql.com/downloads/windows/installer/8.0.html"> aqui</a>.</p>
+<br>
+<br>
+
+<p>Execute o instalador:</p>
+<p><img src="http://g.recordit.co/raOi2Kl6e9.gif" alt="Recordit GIF" style="max-width:100%;"></p>
+<br>
+
+<p>Apos completar, dê "Next">"Next". Até chegar na tela abaixo:</p>
+<p><img src="http://g.recordit.co/raOi2Kl6e9.gif" alt="Recordit GIF" style="max-width:100%;"></p>
+<br>
+
+<p>Depois termine a instalação, utilizando a senha "12345678"</p>
+<p><img src="http://recordit.co/JIWaPJazRI" alt="Recordit GIF" style="max-width:100%;"></p>
+<br>
+
+<p>Caso já possua o mysql com outra senha, altere no arquivo "database.js"</p>
+<p><img src="http://g.recordit.co/efu3uiCENV.gif" alt="Recordit GIF" style="max-width:100%;"></p>
+<br>
+
+<p>Eu utilizo o Mysql Workbench, se precisar baixe<a href="https://dev.mysql.com/downloads/workbench/"> aqui</a>.</p>
+<br>
+<br>
+
+<p>Abra o MysqlWorkbench e crie o database "guiaperguntas"</p>
+<p><img src="http://recordit.co/XuKDqGacie" alt="Recordit GIF" style="max-width:100%;"></p>
+<br>
+<br>
+
+<p>Abra o terminal na pasta do seu projeto e dê o comando "npm install"</p>
+<p><img src="http://g.recordit.co/NIqwTX5rPF.gif" alt="Recordit GIF" style="max-width:100%;"></p>
+<br>
+<br>
+
+<p>Ainda com o terminal aberto e mysql também, digite o comando "npm start"</p>
+<p><img src="http://g.recordit.co/A5ASDYHu2w.gif" alt="Recordit GIF" style="max-width:100%;"></p>
+<br>
+<br>
+
+<p>Agora é só abrir seu navegador e ir até a url <a href="http://localhost:3333">localhost:3333</a></p>
+<p><img src="http://g.recordit.co/hcdSGjbLlY.gif" alt="Recordit GIF" style="max-width:100%;"></p>
+<br>
+<br>
+
+
+
+
+
+
+
+<p>Crie o database:</p>
+<br>
+<p>CREATE DATABASE guiaperguntas;</p>
+<br>
+<br>
+
+
 
 ---
-## 💻 Subindo
-sajdhsakjhdjkahdkjadkahdkashkdjhaskdhsajk
 
-
----
 Feito com ♥ por mim. 
