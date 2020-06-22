@@ -2,7 +2,7 @@
 <h1 align="center">
   Guia Perguntas
 </h1>
----
+<hr>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/arthur-meireles/GuiaPerguntas">
@@ -25,7 +25,7 @@
 <p align="center">
   <img alt="Frontend" src=".github/GuiaPerguntas.png" width="100%">
 </p>
----
+<hr>
 
 ## 📚 Tecnologias
 
@@ -37,19 +37,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Ejs](https://ejs.co/)
 - [Bootstrap](https://getbootstrap.com/)
 - [MySql](https://www.mysql.com/)
----
+<hr>
 
 ## 💻 Projeto
 
 O Guia Perguntas é um projeto estilo fórum de perguntas e respostas, criado apartir de um curso de Nodejs na udemy.(https://www.udemy.com/course/formacao-nodejs)
----
+<hr>
 
 ## 👨‍💻 Subindo
-<p>Para subir o projeto na sua máquina, voce precisa:</p>
+<p>Para subir o projeto na sua máquina, você precisa:</p>
+<br>
+<p>Ter o node e npm instalados e atualizados.</p>
 <br>
 <p><img src="http://g.recordit.co/omQ42wRpjc.gif" alt="Recordit GIF" style="max-width:100%;"></p>
-<p>Te o node e npm instalados e atualizados.</p>
-<br>
 <br>
 
 <p>Clone o projeto onde preferir:</p>
@@ -109,19 +109,6 @@ O Guia Perguntas é um projeto estilo fórum de perguntas e respostas, criado ap
 <br>
 
 
-
-
-
-
-
-<p>Crie o database:</p>
-<br>
-<p>CREATE DATABASE guiaperguntas;</p>
-<br>
-<br>
-
-
-
----
+<hr>
 
 Feito com ♥ por mim. 
