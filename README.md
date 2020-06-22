@@ -56,16 +56,13 @@ O Guia Perguntas é um projeto estilo fórum de perguntas e respostas, criado ap
 <br>
 <p><img src="http://g.recordit.co/X5Lla8Jxcs.gif" alt="Recordit GIF" style="max-width:100%;"></p>
 <br>
-<br>
 
 <p>Abra o projeto no seu editor:</p>
 <br>
 <p><img src="http://g.recordit.co/SMIFIpMhSr.gif" alt="Recordit GIF" style="max-width:100%;"></p>
-<br>
 <br>  
 
 <p>Caso precise instalar o mysql, baixe<a href="https://dev.mysql.com/downloads/windows/installer/8.0.html"> aqui</a>.</p>
-<br>
 <br>
 
 <p>Execute o instalador:</p>
@@ -77,7 +74,7 @@ O Guia Perguntas é um projeto estilo fórum de perguntas e respostas, criado ap
 <br>
 
 <p>Depois termine a instalação, utilizando a senha "12345678"</p>
-<p><img src="http://recordit.co/JIWaPJazRI" alt="Recordit GIF" style="max-width:100%;"></p>
+<p><img src="http://g.recordit.co/JIWaPJazRI.gif" alt="Recordit GIF" style="max-width:100%;"></p>
 <br>
 
 <p>Caso já possua o mysql com outra senha, altere no arquivo "database.js"</p>
@@ -86,28 +83,22 @@ O Guia Perguntas é um projeto estilo fórum de perguntas e respostas, criado ap
 
 <p>Eu utilizo o Mysql Workbench, se precisar baixe<a href="https://dev.mysql.com/downloads/workbench/"> aqui</a>.</p>
 <br>
-<br>
 
 <p>Abra o MysqlWorkbench e crie o database "guiaperguntas"</p>
-<p><img src="http://recordit.co/XuKDqGacie" alt="Recordit GIF" style="max-width:100%;"></p>
-<br>
+<p><img src="http://g.recordit.co/XuKDqGacie.gif" alt="Recordit GIF" style="max-width:100%;"></p>
 <br>
 
 <p>Abra o terminal na pasta do seu projeto e dê o comando "npm install"</p>
 <p><img src="http://g.recordit.co/NIqwTX5rPF.gif" alt="Recordit GIF" style="max-width:100%;"></p>
 <br>
-<br>
 
 <p>Ainda com o terminal aberto e mysql também, digite o comando "npm start"</p>
 <p><img src="http://g.recordit.co/A5ASDYHu2w.gif" alt="Recordit GIF" style="max-width:100%;"></p>
-<br>
 <br>
 
 <p>Agora é só abrir seu navegador e ir até a url <a href="http://localhost:3333">localhost:3333</a></p>
 <p><img src="http://g.recordit.co/hcdSGjbLlY.gif" alt="Recordit GIF" style="max-width:100%;"></p>
 <br>
-<br>
-
 
 <hr>
 
